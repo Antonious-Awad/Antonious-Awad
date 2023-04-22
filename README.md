@@ -28,6 +28,10 @@ I only study programming just for the sake of understanding the memes 🐧.
 
 #
 
+### Stats
+![Antonious's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonious-awad&show_icons=true&theme=nord)
+#
+
 ### Connect With me
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/Antonious_A)
 &nbsp;&nbsp;
