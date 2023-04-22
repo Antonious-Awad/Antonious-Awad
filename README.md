@@ -2,7 +2,7 @@
 
 **`A Student / Developer`**
 
-I'm a Computer Science student, I enjoy customizations and ricing linux desktops.
+I'm a Computer Science student and a web developer, I enjoy customizations and ricing linux desktops.
 
 I only study programming just for the sake of understanding the memes 🐧.
 
