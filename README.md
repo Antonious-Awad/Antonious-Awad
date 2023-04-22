@@ -29,7 +29,13 @@ I only study programming just for the sake of understanding the memes 🐧.
 #
 
 ### Connect With me
-[Twitter](https://twitter.com/Antonious_A) | [Reddit](https://reddit.com/user/ILLUMINATI_SANDIWCH) | [LinkedIn](https://LinkedIn.com/antoniousawad) | [Instagram](https://instagram.com/antonious___)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/Antonious_A)
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://linkedin.com/in/antoniousawad)
+&nbsp;&nbsp;
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg)](https://instagram.com/antonious___)
+&nbsp;&nbsp;
+
 
 
 <!--
