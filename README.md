@@ -29,8 +29,8 @@ I only study programming just for the sake of understanding the memes 🐧.
 #
 
 ### Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=antonious-awad&show_icons=true&theme=nord"/>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonious-awad&layout=compact&theme=nord"/>
+![Antonious's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonious-awad&show_icons=true&theme=nord)
+![Antonious's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonious-awad&layout=compact&theme=nord)
 
 #
 
