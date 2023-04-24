@@ -31,8 +31,7 @@ I only study programming just for the sake of understanding the memes 🐧.
 ### Stats
 ![Antonious's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonious-awad&show_icons=true&theme=nord)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Antonious's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonious-awad&layout=compact&theme=nord)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonious-awad&langs_count=4&theme=nord)
 ---
 
 ### Connect With me
