@@ -2,14 +2,16 @@
 
 **`A Student / Developer`**
 
-I'm a Computer Science student and a web developer, I enjoy customizations and ricing linux desktops.
+I'm a Computer Science Graduate and a Frontend developer, I enjoy customizations and ricing linux desktops.
 
 I only study programming just for the sake of understanding the memes 🐧.
 
 `:q!` 💀
 
 ---
-### 🧰 Languages and Tools 
+
+### 🧰 Languages and Tools
+
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -29,21 +31,23 @@ I only study programming just for the sake of understanding the memes 🐧.
 #
 
 ### Stats
+
 ![Antonious's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonious-awad&show_icons=true&theme=nord)
+
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonious-awad&hide=Java&langs_count=5&theme=nord)
 
 ---
 
 ### Connect With me
+
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/Antonious_A)
 &nbsp;&nbsp;
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://linkedin.com/in/antoniousawad)
 &nbsp;&nbsp;
 [![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg)](https://instagram.com/antonious___)
 &nbsp;&nbsp;
-
-
 
 <!--
 **Antonious-Awad/Antonious-Awad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
