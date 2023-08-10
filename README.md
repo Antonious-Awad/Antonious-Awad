@@ -1,6 +1,6 @@
 # 👓 Antonious Awad
 
-**`A Student / Developer`**
+**`A Gamer / Developer`**
 
 I'm a Computer Science Graduate and a Frontend developer, I enjoy customizations and ricing linux desktops.
 
