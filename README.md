@@ -36,7 +36,7 @@ I only study programming just for the sake of understanding the memes 🐧.
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 
-![Top Langs](https://github-readme-stats-tony.vercel.app/api/top-langs/?username=antonious-awad&hide=Java&langs_count=5&theme=nord)
+![Top Langs](https://github-readme-stats-tony.vercel.app/api/top-langs/?username=antonious-awad&hide=Dart&langs_count=5&theme=nord)
 
 ---
 
