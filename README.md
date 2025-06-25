@@ -23,7 +23,7 @@
 </p>
 
 - 📫 How to reach me **antonuostony1@gmail.com**
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1dLf1lm06nKVjqFFII4u7IgAqJiIH7WpQ/edit?usp=sharing&ouid=103159919124070219301&rtpof=true&sd=true)
+- 📄 Know about my experiences: [Resume](https://github.com/Antonious-Awad/Resume/blob/main/Antonious-Awad.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
